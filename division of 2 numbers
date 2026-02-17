@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+int a,b,div;
+a=10;
+b=65;
+div=a/b;
+printf("%d",div);
+return 0;
+}
